@@ -1,0 +1,17 @@
+a:hover {
+	opacity: 0.8;
+	color: white;
+	tetx-decoration: none;
+}
+a {
+	text-decoration: none;
+}
+
+a:hover.back {
+	color: blue;
+	opacity: 0.6;
+}
+
+button.tombol-tambah {
+	margin-bottom: 9px;
+}
